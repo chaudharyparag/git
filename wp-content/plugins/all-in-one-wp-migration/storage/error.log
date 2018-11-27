@@ -1,0 +1,6 @@
+Sep 04 2018 12:01:53
+{"Number":2,"Message":"mkdir(): File exists","File":"C:\\xampp\\htdocs\\rtcamsassignment\\wp-content\\plugins\\all-in-one-wp-migration\\functions.php","Line":40}
+
+Sep 04 2018 12:01:53
+{"Number":2,"Message":"fopen(C:\\xampp\\htdocs\\rtcamsassignment\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\lu3xzfie285j\\export.log): failed to open stream: No such file or directory","File":"C:\\xampp\\htdocs\\rtcamsassignment\\wp-content\\plugins\\all-in-one-wp-migration\\functions.php","Line":1062}
+
